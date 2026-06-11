@@ -4,6 +4,7 @@
 DB_DIR=".notes/db"
 
 # Stelle sicher, dass das Verzeichnis existiert
+
 mkdir -p "$DB_DIR"
 
 COMMAND="$1"
